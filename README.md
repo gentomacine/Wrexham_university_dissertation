@@ -12,6 +12,7 @@ We apply advanced machine learning techniques to predict Chronic Obstructive Pul
     - ### seaborn
 `We recommend using the Anaconda Python distribution
  and a Python version ≥ 3.7. All dependencies can be installed via:`
+ <pre> ```bash pip install -r requirements.txt ``` </pre>
     
 
 
