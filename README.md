@@ -1,2 +1,3 @@
-# Wrexham_university_dissertation
-Repository for my MSc Data Science dissertation at Wrexham University, focusing on machine learning–based early prediction of COPD using synthetic healthcare data. Contains notebooks, code experiments, preprocessing scripts, and artefact development.
+# Data-Driven Prediction of Chronic Obstructive Pulmonary Disease (COPD)
+
+We apply advanced machine learning techniques to predict Chronic Obstructive Pulmonary Disease (COPD) using synthetic clinical and encounter data from the MedSynora Data Warehouse (DW). The goal is to enable early identification of individuals at risk of developing COPD through comprehensive data integration and predictive modeling.
